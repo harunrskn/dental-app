@@ -7,3 +7,9 @@ routes.php
 routes.scanned.php
 schedule-*
 services.json
+/storage/*
+!/storage/framework
+!/storage/framework/cache
+!/storage/framework/sessions
+!/storage/framework/views
+!/storage/logs
