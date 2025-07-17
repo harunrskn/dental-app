@@ -34,8 +34,8 @@
     },
     "scripts":
     {
-  "start": "bash entrypoint.sh",
-}
+  "start": "bash entrypoint.sh"
+},
 
     
     {
